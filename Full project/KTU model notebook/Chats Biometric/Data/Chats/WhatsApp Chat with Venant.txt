@@ -1,0 +1,15 @@
+18/03/2024, 17:15 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+18/04/2024, 15:19 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+07/05/2024, 12:03 - Rufaro: Apo madii
+07/05/2024, 12:03 - Venant: Warrup
+07/05/2024, 12:03 - Rufaro: basa rikunakidza here zvamada mobile development
+07/05/2024, 12:04 - Venant: 😂😂😂😂😂 haaa ndizvozvo wangu just trying waiziva😂😂😂
+07/05/2024, 12:04 - Rufaro: I am working on a machine learning project where i develop a model that uses what is known as behavioural biometrics to authenticate a user.
+07/05/2024, 12:05 - Rufaro: Like how different people have different handwritings or speech patterns i want it to make predictions on the user just by looking at the text that they enter at different times. So i may end up using deep learning.
+07/05/2024, 12:05 - Venant: Ohhk ohhk thats interesting mans
+07/05/2024, 12:06 - Rufaro: I was suggesting that the challenge that you might face when presenting some of the projects we are doing is the way we present them. If you can publish the application then publish it if  you cannot then a suggestion is to prepare the venue with internet connection so they can see code that is running.
+07/05/2024, 12:07 - Venant: Yeah l will have to publish the application
+07/05/2024, 12:08 - Rufaro: it is easier to present when you publish the application cause i think it also becomes hard to actually try and have you prove you know your code by erasing lines of code and having you reenter them.
+07/05/2024, 12:08 - Venant: Yeah iyoyo ndonyaya yandisiri kuda😂😂😂
+07/05/2024, 12:08 - Rufaro: Just don't forget to make sure that when you do publish your code add crash handlers and exceptions so it does not crash during presentation
+07/05/2024, 12:09 - Venant: Ohhk sure mans danko

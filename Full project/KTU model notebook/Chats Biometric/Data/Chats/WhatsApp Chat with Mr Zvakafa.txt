@@ -1,0 +1,207 @@
+19/03/2024, 09:07 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+19/03/2024, 09:05 - Rufaro: Good morning sir after consulting the bank and communicating with them i have decided to instead build an AI agent for the bank that studies trends and analyses customer preferences to use to for advertising and recommending the banks products and services.
+19/03/2024, 09:42 - Mr Zvakafa: Put it in writing
+19/03/2024, 09:42 - Mr Zvakafa: Send it to me
+19/03/2024, 09:42 - Rufaro: Okay sir let me make a quick draft for you
+19/03/2024, 09:42 - Mr Zvakafa: Note time is not on your side
+19/03/2024, 09:43 - Rufaro: yes sir i understand
+19/03/2024, 09:44 - Mr Zvakafa: Look for a data set that can enable.training of the model of the  recomender engine
+19/03/2024, 09:45 - Rufaro: Understood sir
+21/03/2024, 17:00 - Rufaro: <Media omitted>
+25/03/2024, 09:02 - Rufaro: good morning sir i hope you saw my new proposal that i sent last week
+25/03/2024, 09:50 - Mr Zvakafa: Let me look ar it
+25/03/2024, 09:54 - Rufaro: Okay thank you
+25/03/2024, 10:31 - Mr Zvakafa: Cab you explain to me via text or maybe audio how the chatbot will work in production
+25/03/2024, 10:33 - Rufaro: Okay let me try and record an audio
+25/03/2024, 10:34 - Mr Zvakafa: From all our conversations , I have received 3 ideas from you. This was the first one
+25/03/2024, 10:35 - Mr Zvakafa: This was the second one that you mentioned and you said this was after consulting the bank
+25/03/2024, 10:33 - Rufaro: <Media omitted>
+25/03/2024, 10:35 - Mr Zvakafa: Today I have received the third one
+25/03/2024, 10:35 - Mr Zvakafa: This was a recommendation engine for banking products
+25/03/2024, 10:36 - Mr Zvakafa: This one is securing
+25/03/2024, 10:39 - Mr Zvakafa: I have seen you changing ideas. What's obvious is you want to do a project that utilize AI for your bank but you are not sure which area do you want to focus on.This complicates and hinders your progress .I am not even sure that after giving you recommendations, will you take them or you will go and find a new idea
+25/03/2024, 10:40 - Rufaro: Yes sir sorry about the increase in the number of ideas. You see for the other ideas i end up running into some obstacles mostly on the legal side. regarding access to some of the banks documents. One department can encourage me to try and set up a certain system handling certain information while another department can be very uncomfortable with having to deal with me regarding that mentioned area you see so i am trying to focus more on a project that would avoid or manevuer around their policies. As i do still need support from them on these such systems.
+25/03/2024, 10:44 - Rufaro: No sir , I do apologize if it does seem like i am disregarding your advice. It's just i am finding it difficult to try and justify otherwise how i can make a project unique with the environment i am in. I do not mean to offend you
+25/03/2024, 10:45 - Mr Zvakafa: We have started this journey already and I am your supervisor. One of my duties is to help you craft a research topic ideal for a 3rd year student. Therefore when you meet glitches or you realize it's not feasible you communicate with me .Any change must be communicated. This is why feasibility studies are key
+25/03/2024, 10:46 - Rufaro: Okay sir
+25/03/2024, 10:46 - Mr Zvakafa: I am here to help you come up with a solid research idea that you can put into production in your company
+25/03/2024, 10:48 - Rufaro: Okay sir
+25/03/2024, 10:49 - Mr Zvakafa: It's either you integrate your solution with CBZ infrastructure or you use alternative infrastructure. Some companies won't even allow you to use their data.So you look for alternative data sets or you create alternative infrastructure. Laiter on you put it into production as per the banking regulations
+25/03/2024, 10:52 - Rufaro: Okay i understand. Because this side what happened is that the Bank seems to have had a change in some of their policies which are still being communicated to the people supervising me hear and i understand that some other decisions are still in the air regarding those who are working in IT so a new policy can be announced today that could affect my project which is why i was now aiming for a project where the user optionally generates the dataset over time
+25/03/2024, 10:53 - Rufaro: I want to avoid capturing any confidential data on my own and only use information that is somewhat readily available or always on display something like vocabulary and speech patterns which are if anything made public by individuals willingly especially since that is necessary for users to interact with the bank and its services
+25/03/2024, 10:59 - Mr Zvakafa: If I did get you.You want to use a chatbot to capture users information(that is their user names and passwords  etc).You store the data.You train a nlp model based on this data .The model will be able  to know if this is the real user? And also you mainly want the data for data recovery
+25/03/2024, 11:02 - Rufaro: Yes sir the dataset will be generated on the user regularly with each login the chatbot will try and prompt them to speak so the model learns more about them and incase they change how they speak after a while. They will be prompted regularly on each login with a pin and when the model wishes to verify who they are, it may request they write a short paragraph about anything so it compares the way they communicate to the data it has in its dataset
+25/03/2024, 11:03 - Rufaro: *I mean each time after they login with a pin they will be prompted to communicate with the chatbot.
+25/03/2024, 11:06 - Rufaro: It won't demand the user write whole essays but just short paragraphs of maybe even 50 to 100 words or more if the user wishes to enter more information. this data will accumulate in a data set where an algorithm will study the speech patterns and register that pattern under the user of that account. similarities to that pattern will be analyzed when it comes verfication of a user
+25/03/2024, 11:33 - Mr Zvakafa: So you are focusing on both speech and text
+25/03/2024, 11:35 - Mr Zvakafa: I don't know wether you will build good data pipelines that will collect the data in real time
+25/03/2024, 11:35 - Mr Zvakafa: Data pipelines will be critical
+25/03/2024, 11:35 - Rufaro: Yes speech and text i want to make it applicable to even situations where users do not have the ability to enter audio or text input
+25/03/2024, 11:37 - Mr Zvakafa: Focus on situation. It's good to be ambitious but narrow your scope and know your target group
+25/03/2024, 11:38 - Rufaro: Okay sir i will try my best then. How about i will focus on text first then move on to speech after text pattern recognition is successful
+25/03/2024, 11:41 - Mr Zvakafa: That's why I have said  try to focus on one thing rather than both speech and text
+25/03/2024, 11:42 - Mr Zvakafa: You will need to build data pipelines that collect all this big data
+25/03/2024, 11:42 - Mr Zvakafa: AI applications need more data
+25/03/2024, 11:43 - Mr Zvakafa: You collect the data , and the data must be appropriate with the machine learning model you are using
+25/03/2024, 11:44 - Mr Zvakafa: Are creating your own machine learning algorithm or you are creating your own algorithm???
+25/03/2024, 11:46 - Rufaro: I intend to create my own algorithm and i will be using other online algorithms for reference however if i find an algorithm that is already in use i will use that algorithm instead and will only modify it slightly
+25/03/2024, 11:46 - Mr Zvakafa: The security aspect using AI must be clear as in how are you using the chatbot and the nlp model to enforce security
+25/03/2024, 11:47 - Mr Zvakafa: If you are creating your own algorithm then you have to prove its accuracy benchmarking with other algorithms in existence
+25/03/2024, 11:47 - Mr Zvakafa: I did not get the last objective?
+25/03/2024, 11:49 - Rufaro: The model is to be used to verify the users identity like a password does on entry. The AI will try and recognize the user by comparing the text input to the text data in the dataset and will grant them access or deny it to them depending on  whether the patterns it analyzes are the same.
+25/03/2024, 11:51 - Rufaro: Oh like that is were the secure part is. The Idea is that the chatbot will give a go ahead to the backend service to grant you access to the account or services you want like lets say data recovery as i mentioned. It will recognize you as the owner of the account and grant you access to said account so you can enter and maybe even change your password if you forgot it
+25/03/2024, 11:54 - Mr Zvakafa: You will have these components:
+
+ 1.Website that you integrate with the web chatbot
+2.Back end comprising of the data infrastructure(Data pipelines)
+3. Machine learning model that you will put into production enforcing the security you are talking about
+4. Good data collection will be critical because that's what affects your model. You will continuously monitor your model in production to see if the accuracy is still the same. So you first train the model using the data set you are saying you will collect(Data lake)
+25/03/2024, 11:55 - Rufaro: yes sir those are the components that i will have in my project
+25/03/2024, 11:56 - Mr Zvakafa: What's hhe difference between a client entering credentials using a web form and  using a web chatbot??
+25/03/2024, 11:57 - Mr Zvakafa: Then your data engineering  and machine learning skills  have  to be shaperned
+25/03/2024, 11:59 - Mr Zvakafa: I don't know how many CBZ cliemts are using  online web based  banking . I have been using CBZ for the last 7 years.I have never used web banking services. I prefer  the mobile app cbz touch because it does nor require data for me to bank
+25/03/2024, 12:02 - Mr Zvakafa: Don't use the word aims. Coz we have one  aim 
+Be specific on you aim.Dont mention functionalities of the app in the aim
+25/03/2024, 12:02 - Rufaro: Okay sir noted
+25/03/2024, 12:03 - Mr Zvakafa: It's not necessary when writting an academic document to mention during the time at cbz  what what
+25/03/2024, 12:04 - Mr Zvakafa: At the end of this project you will produce a smart product(Web chatbot) that enforces security in the bank
+25/03/2024, 12:05 - Rufaro: I want to open the possibility to tracking individuals who repeatedly try and gain access to the accounts of other users by generating a digital identity that marks users like that with a digital identity that identifies them as a threat to the banks security.
+25/03/2024, 12:06 - Mr Zvakafa: So  make it clear how this solution is the best for security purposes comparing other bots like whatsapp chatbot or mobile forms like those on other existing applications like cbz touch
+25/03/2024, 12:07 - Mr Zvakafa: Are you saying this  cannot be achieved through mobile.if that's so then make it clear in your do document
+25/03/2024, 12:09 - Mr Zvakafa: I think i have replied you. Let me get down to business
+25/03/2024, 12:10 - Rufaro: Okay sir thank you very much for your time i will do my best with your help
+10/04/2024, 16:24 - Rufaro: <Media omitted>
+14/04/2024, 10:22 - Mr Zvakafa: <Media omitted>
+14/04/2024, 10:22 - Mr Zvakafa: In your aim how many models do you want to create??
+14/04/2024, 10:23 - Mr Zvakafa: Do u have a data set to train these models
+14/04/2024, 10:24 - Mr Zvakafa: What's the characteristics of your training data set
+14/04/2024, 10:30 - Mr Zvakafa: To developa machine learning model that does 1.2.3 utilizing  1.2.3
+14/04/2024, 10:31 - Mr Zvakafa: I have told you so many times objectives start with to  to to
+14/04/2024, 10:32 - Mr Zvakafa: Objective 1 you want to create or aquire.What is it that you want to do??
+14/04/2024, 10:32 - Rufaro: Okay sir sorry let me fix that
+14/04/2024, 10:34 - Rufaro: I want to make use of an AWE to assess an individuals writing skills. So far I have been still trying to find out which is most ideal to use an already designed AWE or to create one from an available ML model
+14/04/2024, 10:36 - Mr Zvakafa: Objective 2 is
+ to collect data entered from users etc using a web application
+14/04/2024, 10:36 - Rufaro: to assess writing perfomance I have the IELTs dataset provided by kaggle
+14/04/2024, 10:38 - Mr Zvakafa: Make it clear whether u want to create or you want to make use of an existing AWEn
+14/04/2024, 10:38 - Mr Zvakafa: This is 14 and you don't know kuti ndiri kuda kushandisa chii
+14/04/2024, 10:39 - Rufaro: Yes I wish to create a simple interface similar to the one on touch where the question is on top followed by a multiline textbox. The user will answer the question in the form of two or more paragraphs then they submit their answer. I will the convert the text to a suitable format using a pipeline I will create using tools provided by sklearn then store it in a dataset
+14/04/2024, 10:40 - Mr Zvakafa: Make it clear what you want to do
+14/04/2024, 10:41 - Mr Zvakafa: In a nutshell rephraise for me that objective. The way I understand that objective is you want to just collect data using the web application ( ofcourse through various forms)
+14/04/2024, 10:43 - Rufaro: Okay I want to collect data from the user using a Web application. The data will be text based.
+14/04/2024, 10:44 - Rufaro: On submission it is added to a dataset in the backend and then processed later by the model
+14/04/2024, 10:44 - Mr Zvakafa: Are u training the model online(streaming) or batch
+14/04/2024, 10:45 - Mr Zvakafa: So you will train the model using the generated data
+14/04/2024, 10:45 - Mr Zvakafa: ??
+14/04/2024, 10:46 - Rufaro: The AWE will be trained using the IELTs data set which is batch training
+14/04/2024, 10:47 - Rufaro: The second model the user predictor will use streaming
+14/04/2024, 10:47 - Rufaro: I intend to control the number of users who will help train it so I can get data that is as accurate as possible
+14/04/2024, 10:48 - Mr Zvakafa: Third objective make it clear  that I want to develop a machine learning model .on its own the Word model is too broad. Models utilize various techniques. In this case u are creating a machine learning model
+14/04/2024, 10:50 - Mr Zvakafa: The reason why I am asking  is machine learning models  must be trained using  large   data sets so that the prediction is accurate
+14/04/2024, 10:51 - Rufaro: Okay I wish to create a model that uses a DecisionTree to make predictions. The features it will look at will include the users score after AWE's assessment, the question they were answering , the length of their answer and the word order they used
+14/04/2024, 10:51 - Mr Zvakafa: You must be able to differentiate whether your problem is a classification problem or regression problem  or a reinforcement problem. You must understand the problem
+14/04/2024, 10:52 - Rufaro: I understand sir I will try my best to make the audience as large as possible I will try and get permission to openly stream the model as well
+14/04/2024, 10:52 - Mr Zvakafa: For now I don't want features..I just neeed to know the objective
+14/04/2024, 10:53 - Mr Zvakafa: What performance measure will use on the model??
+14/04/2024, 10:54 - Rufaro: Okay sir I wish to use a Classifier model
+14/04/2024, 10:56 - Rufaro: I wish to use an accuracy score. The model will compare how close it predictions are to the dataset
+14/04/2024, 10:58 - Mr Zvakafa: In an objective you just tell us the objective as it is . 
+
+Example
+
+To create a machine leaning model utilizing  supports vector machine to predict 1.2.3 things 
+
+You objective must be measurable. Be specific
+14/04/2024, 10:58 - Mr Zvakafa: Research more on the performance measure
+14/04/2024, 10:58 - Rufaro: Okay sir
+14/04/2024, 11:00 - Mr Zvakafa: Make your aim understandable. Make it clear so that the reader don't find problems in understanding it
+14/04/2024, 11:00 - Rufaro: My objective is 
+
+To create a machine learning model that utilises decision tree classifiers to predict the likelihood of the user being the intended client of the account
+14/04/2024, 11:01 - Mr Zvakafa: On the last part of the objective you can add a part on how you wil solve that problem in context
+14/04/2024, 11:01 - Mr Zvakafa: That's more understandable  now
+14/04/2024, 11:02 - Rufaro: Noted sir
+14/04/2024, 11:02 - Mr Zvakafa: List your objectives in  chronological order
+14/04/2024, 11:02 - Mr Zvakafa: Know what starts first
+14/04/2024, 11:03 - Mr Zvakafa: The AWE feeds into the data pipeline
+14/04/2024, 11:04 - Rufaro: Noted
+14/04/2024, 11:04 - Rufaro: Yes the AWE will also feed its output into the data pipeline as well
+14/04/2024, 11:04 - Mr Zvakafa: A data pipeline is just  data processing infrastructure that takes data form various sources  .in the context of the bank you might need data coming from various sources
+14/04/2024, 11:05 - Rufaro: Noted
+14/04/2024, 11:06 - Mr Zvakafa: Machine Learning Research Dissertation Marking Guide
+
+**1. Introduction (10 points):**
+   - Clear definition of the research problem.
+   - Thorough literature review establishing the context of the study.
+   - Well-defined research aim, objectives and research questions.
+
+**2. Literature Review (15 points):**
+   - Depth and breadth of the literature review.
+   - Identification and critique of key theories, models, and methodologies.
+   - Demonstration of an understanding of the historical and current state of the field.
+
+**3. Research Methodology (15 points):**
+   - Comprehensive explanation of the chosen research methodology.
+   - Detailed description of data collection and preprocessing methods.
+   - Justification for the selected machine learning models and algorithms.
+   - Rigorous experimental design, including validation and testing strategies.
+
+**4. Data Handling and Feature Engineering (10 points):**
+   - Effective handling of data, including cleaning and transformation.
+   - Clear rationale for feature selection and engineering choices.
+   - Demonstration of understanding the characteristics of the dataset.
+
+**5. Model Development and Training (15 points):**
+   - Clear explanation of model selection, architecture, and hyper parameter choices.
+   - Rigorous training process with appropriate validation techniques.
+   - Adequate consideration of potential biases and ethical implications.
+
+**6. Results and Analysis (15 points):**
+   - Thorough analysis of model performance using relevant metrics.
+   - Insightful interpretation of results, including a discussion of false positives/negatives.
+   - Effective use of visualizations to support the analysis.
+
+**7. Discussion and Contributions (10 points):**
+   - Clear discussion of the implications and contributions of the research.
+   - Critical analysis of the strengths and limitations of the study.
+   - Well-supported reflections on the significance of the findings.
+
+**8. Conclusion and Future Work (5 points):**
+   - Effective summarization of key findings and contributions.
+   - Thoughtful suggestions for future research directions.
+   - Closure with a clear and impactful concluding statement.
+
+**9. Overall Presentation and Clarity (5 points):**
+   - Professional presentation of the dissertation, adhering to academic conventions.
+   - Logical flow of ideas and sections.
+   - Clear and concise writing with proper grammar and formatting.
+
+**Total: 100 points**
+14/04/2024, 11:06 - Rufaro: Understood sir, the AWE, and the cbz touch profile database or a dummy database will be used to feed the pipeline
+14/04/2024, 11:07 - Mr Zvakafa: The machine learning workflow is essential  to follow
+14/04/2024, 11:07 - Rufaro: Thank you very much sir this will be helpful
+14/04/2024, 11:08 - Mr Zvakafa: Number 1 up to 8 are very critical  in your project involving machine learning
+14/04/2024, 11:09 - Rufaro: Okay sir noted
+14/04/2024, 11:10 - Mr Zvakafa: As work on your  project make corrections on your problem statement , aim and  objectives as  I have suggested
+14/04/2024, 11:10 - Rufaro: Okay sir noted
+14/04/2024, 11:10 - Mr Zvakafa: So after this research problem what is our final product??
+14/04/2024, 11:11 - Rufaro: Thank you very much for your assistance
+22/04/2024, 08:20 - Rufaro: <Media omitted>
+22/04/2024, 08:20 - Rufaro: Sorry for late submission
+23/04/2024, 18:30 - Mr Zvakafa: We are now writting a thesis document
+23/04/2024, 18:30 - Mr Zvakafa: We format as we write the document
+23/04/2024, 18:31 - Mr Zvakafa: We build on from chapter one .I need a document with chapter 1, 2, 3 combined
+23/04/2024, 18:31 - Mr Zvakafa: Formatting and academic writing is key
+23/04/2024, 18:32 - Mr Zvakafa: Kwete kundipa zvidimbu zvidimbu
+24/04/2024, 12:42 - Rufaro: <Media omitted>
+24/04/2024, 12:52 - Mr Zvakafa: Noted .will look at it
+05/05/2024, 05:29 - Mr Zvakafa: Objective 2 , I don't understand the first part if that Objective
+05/05/2024, 05:31 - Mr Zvakafa: <Media omitted>
+05/05/2024, 05:32 - Mr Zvakafa: Objective 3 , don't say other
+05/05/2024, 05:35 - Mr Zvakafa: On your aim . The aim is to create a system(wether web /mobile ) that utilizes machine learning. So the objective is to develop a system
+05/05/2024, 06:35 - Rufaro: Sorry must have been a typing error Objective 2 is: To create a pipeline that will prepare the data for an AWE to assess the grammar in the entered response and feed the response data to the user authenticator model.
+05/05/2024, 06:35 - Rufaro: Noted
+05/05/2024, 06:38 - Rufaro: Okay the how about say :To create an AWE model using openai's get model and NLP libraries to assess the grammar and vocabulary from user response and feed the result back into the pipeline
+05/05/2024, 07:14 - Mr Zvakafa: All I can say is don't give us  multiple meanings be specific
+05/05/2024, 07:15 - Mr Zvakafa: U can't say other we become curious what is the other
+05/05/2024, 07:20 - Rufaro: Noted

@@ -1,0 +1,623 @@
+17/03/2024, 12:44 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+18/03/2024, 10:46 - Rufaro: good morning
+18/03/2024, 10:56 - Ngoni: Hey
+18/03/2024, 10:56 - Ngoni: How is it
+18/03/2024, 11:02 - Rufaro: it is good the phone is doing pretty well too and i fixed the issue with netone yesterday
+18/03/2024, 11:03 - Rufaro: now i realize i also probably wasted my time just watching youtube videos once it started working though i really need to improve my perfomance i think.
+18/03/2024, 11:03 - Ngoni: Which performance do you need to improve?
+18/03/2024, 11:04 - Rufaro: focus i mean like writing code even on weekends or could it just be my environment maybe that is causing issues
+18/03/2024, 11:06 - Rufaro: i can write code at work
+18/03/2024, 11:30 - Ngoni: Probably the environment
+18/03/2024, 11:31 - Ngoni: Electricity, no table etc
+18/03/2024, 11:31 - Rufaro: yeah with all them kids coming around and asking for guavas making demands yelling shouting and screaming at each other i think i will start coming to work even on weekends sometimes so i can do some research and study a bit
+18/03/2024, 11:32 - Rufaro: should do me some good
+18/03/2024, 11:34 - Ngoni: Yeah, that could help
+18/03/2024, 11:34 - Ngoni: Or you could buy a desk and those laptop powerbanks
+18/03/2024, 11:35 - Rufaro: laptop powerbank? There is stuff like that out ther e
+18/03/2024, 11:35 - Rufaro: interesting
+18/03/2024, 11:41 - Ngoni: Yep. A good cost about 60 to a hundred
+18/03/2024, 11:45 - Rufaro: okay do they have ones that can take my type of charger though or are they for c Type chargers
+20/03/2024, 08:00 - Rufaro: Good morning my guy i spoke to mainini Tino yesterday
+20/03/2024, 08:18 - Ngoni: And what happened?
+20/03/2024, 08:20 - Rufaro: Oh she says she fine though she is traumatized from the robbery . Babamunini suspects that the robbers could come back for her
+20/03/2024, 08:36 - Ngoni: They didn't hurt her did they?
+20/03/2024, 08:42 - Rufaro: she locked her room and they could not get in she did however hear her employees crying and begging for help but she did not come out cause she was terrified
+20/03/2024, 08:42 - Rufaro: apparently one of her employees was seriously injured and she has been buying medicine for him though and the others are fine
+20/03/2024, 08:44 - Ngoni: Where was this?
+20/03/2024, 08:45 - Rufaro: I think dad said in Chirundu
+20/03/2024, 08:47 - Ngoni: Hmm, how unfortunate
+20/03/2024, 08:48 - Ngoni: If they can come back for her then she's in a lot of danger
+20/03/2024, 08:48 - Ngoni: Means they'd have to invest into a lot of security
+20/03/2024, 08:49 - Rufaro: yep the thing is that they decided to rob her because that day they saw she bought a pool table and brought it in a good truck to her store or something that is what she said so she did report to police and she believes that the CID are getting involved so we can just hope for the best
+20/03/2024, 08:49 - Rufaro: Probably guys like fawcet or something cause otherwise they will be in trouble
+20/03/2024, 09:55 - Rufaro: hey dude i wanna know when you do psychometric tests how often do you get people with similar results or behaviours or are all the results unique for each and every  individual who takes the test or will ever take the test. If these individuals take the same test repetitively or a different test do you get the same results regardless
+20/03/2024, 10:16 - Ngoni: They might have known
+20/03/2024, 10:16 - Ngoni: Yep
+20/03/2024, 10:18 - Ngoni: Well, you could improve especially on things like English and math, but it's mostly unique when it comes to personality assessment. But not entirely unique since personalities can be somewhat grouped together
+20/03/2024, 10:21 - Rufaro: Okay Okay i see the thing is i am trying to try and formulate a way of user authentication using AI instead of a person having to use security questions or password or pincode. So you know like a  user simply frequently interacts with an AI agent and that AI agent learns who the user is and can recognize them whenever it interacts with them so it can log them in to their user.
+20/03/2024, 10:22 - Rufaro: The idea is it collects information from the user and uses that information as the dataset and then gives the user access to whatever account they are using. It would be a more convenient means of security for users and might be a whole lot more secure the more and individual interacts with the AI
+20/03/2024, 10:35 - Ngoni: More secure than biometrics?
+20/03/2024, 10:35 - Ngoni: And how is one contacting this agent?
+20/03/2024, 10:36 - Rufaro: well it will not be more secure than biometrics but is likely to just be more economically physible as the idea is to add it to android applications and make it more convenient for the customer.
+22/03/2024, 11:25 - Rufaro: good morning how are you
+22/03/2024, 11:28 - Ngoni: Yo
+22/03/2024, 11:28 - Ngoni: How's it
+22/03/2024, 11:30 - Rufaro: Oh it is cool so i Yesterday the bus i boarded ended up running out of fuel when we were like a kilometre from showgrounds imagine and the driver was like eish things are hard guys you know these buses die sometimes. and this other guy at the back of the bus was like the conditions of you not reaching a destination with this here bus of yours to leave us home is that you give us back 50 cents so give me my money nigga
+22/03/2024, 11:39 - Ngoni: Sounds hectic
+22/03/2024, 11:39 - Ngoni: Did he give it back?
+22/03/2024, 11:40 - Rufaro: Of course not man people was upset though and the passengers was like you get us to domboshava late and your bus breaks down before we can get home you know what we promise not to board buses that belong to your company.🤣🤣🤣🤣
+22/03/2024, 11:41 - Rufaro: The issue is there companies know how us residents of domboshava respond to poor service and they try and punish us for deciding not waste our money on their terribly service and the customers from domboshava just smirk and are like screw you guess what there are open trucks and combis always available so these guys lose more customers by the day as they remain prideful and conceited.
+22/03/2024, 12:39 - Ngoni: You'd obviously be mad coz man probably figured his fuel might not get home😂😂
+22/03/2024, 12:41 - Ngoni: Well, nobody likes poor service, so it makes sense. But it seems like it's a lot of commotion with the transport that side.
+22/03/2024, 12:53 - Rufaro: i know and some guys came with their kombi and were like domboshava 50 cents and guess what the customers where like we would rather walk the whole kilometre
+25/03/2024, 12:09 - Ngoni: Yo
+25/03/2024, 12:09 - Ngoni: So I was rewatching one punch season 2
+25/03/2024, 12:09 - Ngoni: Besides some of the animation, I think the story wasn't so bad
+25/03/2024, 12:10 - Ngoni: Oh and konosuba is coming back in 16 days
+25/03/2024, 12:11 - Rufaro: yeah sure i mean studio JC had issues because of how they had some cutscenes where the characters seemed to be pausing or sticking mid battle
+25/03/2024, 12:11 - Ngoni: <Media omitted>
+25/03/2024, 12:12 - Rufaro: Also i want to say some of the netflix animations that are not Kengan Ashura are bad as hell , Have you ever watched gamera
+25/03/2024, 12:12 - Ngoni: The animation wasn't all that
+25/03/2024, 12:12 - Rufaro: I know people somehow like frieren But Gintama though what is happening in Gintama right now 🤣🤣🤣🤣
+25/03/2024, 12:12 - Ngoni: Nah, which one is that one?
+25/03/2024, 12:13 - Ngoni: Frieren is good, but mmm, it can't be number 1 tho😂
+25/03/2024, 12:14 - Ngoni: These guys are ranking frieren higher than HXH and JJK
+25/03/2024, 12:14 - Rufaro: kind of another Godzilla like storyline animation with Kaiju and all the worst part about gamera was like you could feel as though the writers of the storyline where lazy cause they did have a story and characters among the kaiju who had potential . I would only recommend watching episode 4 cause they introduce this thing called Guiron and it is really unique in the monster universe even the way it fought it was good and it had potential .
+25/03/2024, 12:15 - Rufaro: Like they introduced a character that had one piece level of ridiculous design but that character is the most dangerous entity because of how they move and fight uniquely and then they had to ruin it with the idea that the hero of the anime cannot lose kind of logic
+25/03/2024, 12:17 - Rufaro: Did you see the blu ray version of Sukuna vs Mahoraga cause hmmmm that fight scene was unbelievable like when people say mahoraga is dangeroud he is dangerous and sukuna is also indeed strong like damn they added extra scenes and even showed sukuna having fun but the fun started to run out a bit when mahoraga started shadow boxing intentionally trying to hit the slashes so he could adapt and see them.
+25/03/2024, 12:17 - Rufaro: did HxH get a new season and frieren can't be more popular than AOT can it
+25/03/2024, 12:21 - Ngoni: You begin to wonder if Netflix doesn't have the budget to get some good writers. They can animate for real but the stories tho. I'll check it out
+25/03/2024, 12:21 - Ngoni: I ain't seen it, where can i get it
+25/03/2024, 12:21 - Ngoni: Nope HXH doesn't have a new season although I've heard rumors that it could be coming
+25/03/2024, 12:22 - Ngoni: Definitely frieren can't be more popular than aot, I think it's just a new concept, that's why people like it
+25/03/2024, 12:23 - Ngoni: They have good story telling and the characters have depth
+25/03/2024, 12:23 - Rufaro: yeah like the fight scene with guiron you could swear it was good CGI and it made sense but the main character won cause he was the main character and the story as a whole if it starts as comedy action end it as comedy action like gintama but these guys wanted to put some horror and slice of life story into the mix like what . These are giant monsters fighting each other for whatever reason let them just fight
+25/03/2024, 12:25 - Rufaro: Or maybe it just one of the better new generation anime that doesn't abuse a certain genre like the reincarnation and fantasy series. They become more popular if you are breaking away from following a popular trope right down to the last script after all. Its like one puch man saitama already became the most powerful being in existence and doesn't have any super sad backstory or want to be loved by everyone and yet people like the anime for how simple he makes things
+25/03/2024, 17:14 - Ngoni: It sucks when that happens. We need convincing wins in anime
+25/03/2024, 17:15 - Ngoni: People get tired of the same isekai stuff, so yeah, frieren is somewhat refreshing and it's got depth
+26/03/2024, 10:51 - Rufaro: yo wassup have you ever done machine learning and is it easy or just challenging
+26/03/2024, 11:47 - Ngoni: It requires a lot of learning
+26/03/2024, 11:47 - Ngoni: It's a big challenging but not impossible
+26/03/2024, 11:49 - Rufaro: Okay cause i was chatting with my supervisor and he was asking all sorts of questions cause my project centers around using machine learning to learn a persons communication patterns so it can recognize any given user by looking at how they text and communicate with them.
+26/03/2024, 20:34 - Ngoni: Hmm, texting huh🤔
+26/03/2024, 20:34 - Ngoni: How do you want to teach it?
+27/03/2024, 08:16 - Rufaro: collect info like text messages from users by having it prompt users to enter text.
+27/03/2024, 08:17 - Rufaro: Then store their responses and look at how they speak maybe even record key presses and predict the kind of errors in texting they make and how often along with the topics they usually speak about and how they answer questions
+27/03/2024, 09:33 - Ngoni: You'd probably need large amounts of text.  How are you going to collect it?
+27/03/2024, 10:22 - Rufaro: shit that is a challenge indeed like how much do you think i would need anyway
+27/03/2024, 10:23 - Rufaro: cause the first thing i could try and do would be to load some of my assignments for the meantime into the application or i could try and type just some general information into a notepad file frequently and feed it to my dataset.
+27/03/2024, 10:24 - Rufaro: another option would be to be able to export and filter whatsapp chat messages to the bot so they can be used as a dataset as well
+27/03/2024, 10:39 - Ngoni: As much as possible. Recognizing patterns in text is like looking for needle in a haystack so yeah, a lot
+27/03/2024, 10:40 - Ngoni: Who's WhatsApp messages?
+27/03/2024, 10:40 - Ngoni: The hard thing about you task is the data
+27/03/2024, 10:41 - Ngoni: You'd need different peoples data to confirm that it can identify them
+27/03/2024, 10:41 - Rufaro: i guess for now the user so for test that will be my whatsapp messages i guess i will do my best and try and see what i can do to accomplish my task
+27/03/2024, 10:41 - Ngoni: Okay
+27/03/2024, 10:42 - Rufaro: i will ask for some from my friends of course i guess man i may have bitten off mo than i can chew but that supervisor is getting rather upset or dissatsified with me changing ideas for projects
+27/03/2024, 14:01 - Rufaro: Yo are you going to meet Dad in Marondera this Easter
+27/03/2024, 19:13 - Ngoni: You first need to understand what's required for the project, breaking it down step by step coz the idea may sound good but without sufficient knowledge you'll struggle
+27/03/2024, 19:14 - Ngoni: Probably, but he's talking about kumusha
+28/03/2024, 12:53 - Rufaro: I know he also mentioned that he might be going to Marondera as well so i was hoping to get the opportunity to go and visit dad over the weekend
+28/03/2024, 13:32 - Rufaro: Oh and a friend of mine wanted to do AI and machine learning but as it it turns out that is not the best decision for the project he wants to use
+03/04/2024, 08:12 - Rufaro: good morning i got home safe yesterday and was too tired to even be able to cook yet i had to still draw water from the well and clean some of the dishes that i left yesterday
+03/04/2024, 08:12 - Rufaro: i ended up just eating chicken inn for dinner and two slices of bread
+04/04/2024, 08:37 - Ngoni: Yo
+04/04/2024, 08:37 - Ngoni: You bought a 2 piecer?
+04/04/2024, 08:42 - Rufaro: 1 piecer
+04/04/2024, 08:43 - Rufaro: a plastiic bag and one coke
+04/04/2024, 08:43 - Rufaro: it cost over 100000 rtgs
+04/04/2024, 08:43 - Ngoni: Oh I see
+04/04/2024, 08:43 - Ngoni: 100000??😂 ih
+04/04/2024, 08:44 - Rufaro: you have no idea the rate is flying my guy like everyday it goes up and stores try and predict what it will be at tomorrow and use tomorrows rate
+04/04/2024, 08:45 - Ngoni: Yeah, that's a lot for real
+04/04/2024, 09:29 - Ngoni: Konosuba is back
+04/04/2024, 11:39 - Rufaro: Yes finally been Waiting forever
+04/04/2024, 11:51 - Ngoni: So there's this course that I bought. It's on udemy. I can give you my credentials and you can use them to log in
+04/04/2024, 11:51 - Ngoni: So download udemy app
+04/04/2024, 11:51 - Ngoni: It's on AI
+04/04/2024, 11:51 - Rufaro: Okay cool what's it about
+04/04/2024, 11:51 - Rufaro: Okay
+04/04/2024, 11:51 - Rufaro: Oh sure let me try
+04/04/2024, 11:52 - Ngoni: So my email: ngonidzashedelight@gmail.com
+Password: 4*XGV6ugV^+c%-H
+05/04/2024, 07:32 - Ngoni: Yo
+05/04/2024, 07:33 - Ngoni: I need a favor. I need you to collect money from a certain client of mine
+05/04/2024, 07:33 - Ngoni: Will you be free at some point today?
+05/04/2024, 07:50 - Rufaro: Yo wassup if I am to be free it will likely be around lunch time
+05/04/2024, 07:50 - Rufaro: Around 12:00 , 13:00 to 14:00 hrs
+05/04/2024, 07:50 - Rufaro: It depends on whether I have been given a job or not
+05/04/2024, 07:56 - Ngoni: Okay let me know. I'll need you to collect the money and deposit it into my bank account, would want you walking around with lots of money
+05/04/2024, 07:59 - Rufaro: how much is it anyways?
+05/04/2024, 07:59 - Rufaro: and which bank account do you have anyways
+05/04/2024, 08:08 - Ngoni: 300
+05/04/2024, 08:08 - Ngoni: Stanbic
+05/04/2024, 08:10 - Rufaro: will there be like a huge queue or something cause i do hate me them qeues,
+05/04/2024, 08:10 - Rufaro: or do they work fast often
+05/04/2024, 08:11 - Ngoni: You ask them to use the deposit machine. Should take about 5 minutes
+05/04/2024, 08:12 - Rufaro: oh they have a deposit machine amazing 👍👍 okay can do will check for the closest stanbic bank and go make the deposit when i meet the guy just tell me when to meet the guy
+05/04/2024, 10:36 - Ngoni: You're going to meet a white lady who has a shop in town
+05/04/2024, 10:36 - Ngoni: Themi Shein CUSTOMER.vcf (file attached)
+05/04/2024, 10:37 - Rufaro: White lady oh you mean she is a foreigner
+05/04/2024, 10:37 - Ngoni: She may be Zimbabwean. But she a white lady
+05/04/2024, 10:38 - Rufaro: Okay Okay no problem
+05/04/2024, 10:38 - Ngoni: location: https://maps.google.com/?q=-17.83241081237793,31.051877975463867
+05/04/2024, 10:38 - Ngoni: Nations hardware opposit mania cycle corner shop you can just msg me I’ll meet you outside
+05/04/2024, 10:44 - Ngoni: Does it look like you'll be free?
+05/04/2024, 10:44 - Ngoni: There a stanbic close to her location
+05/04/2024, 10:45 - Rufaro: well i kinda am even now but someone may come looking for me which is why i always try to head out towards lunch instead
+05/04/2024, 10:46 - Rufaro: i think i can make a plan to head over there at around 12:00 but let me try and see if can get permission to head out now
+05/04/2024, 11:04 - Ngoni: OK cool
+05/04/2024, 11:59 - Rufaro: Yo i am bout to head out and meet the lady do i need your bank account number to do the deposit
+05/04/2024, 12:00 - Ngoni: Yew, let me send the details
+05/04/2024, 12:01 - Ngoni: My account number is 9140007773187
+05/04/2024, 12:01 - Ngoni: Be careful tho, you never know who's watching
+05/04/2024, 12:01 - Ngoni: Have you checked the location of the stanbic bank?
+05/04/2024, 12:02 - Rufaro: cool will be don't worry
+05/04/2024, 12:02 - Rufaro: let me just check to see
+05/04/2024, 12:27 - Rufaro: At the bank now
+05/04/2024, 12:34 - Ngoni: You already received the money?
+05/04/2024, 12:49 - Rufaro: Finished the depos
+05/04/2024, 13:03 - Ngoni: Thanks man
+05/04/2024, 13:04 - Ngoni: It didn't take too long right?
+05/04/2024, 13:20 - Rufaro: No it didn't also witnessed police brutality and almost got caught up in a public altercation by the parking lot
+05/04/2024, 13:29 - Rufaro: yo one of my co workers was just arrested my guy the harare police is useless imagine restraining original culprits of a crime and then those guys escape and you go and capture the witnesses instead
+05/04/2024, 13:48 - Rufaro: <Media omitted>
+06/04/2024, 17:11 - Ngoni: Bokuno hero season 7 has started
+07/04/2024, 11:22 - Rufaro: WATCH jojo's bizarre adventure episode one is impressive
+07/04/2024, 11:40 - Rufaro: No I just finished episode one and it is amazing fast paced story telling but all key points are easy to catch and they also got good action that is easy to follow
+07/04/2024, 12:05 - Ngoni: Isn't it like Gundam? With many different kinds of seasons?
+07/04/2024, 12:06 - Rufaro: The story revolves around Dio Brando being so petty the guy just trolls and harrases a single family line for eternity cause he did not like the original heir who was around when he was alive
+07/04/2024, 12:06 - Rufaro: This guy is petty he basically returns to harass numerous generations with no real reason
+07/04/2024, 12:07 - Rufaro: 🤣🤣🤣 This dude knee jumped the MC's dog just to prove he is better than him imagine
+07/04/2024, 12:08 - Rufaro: Even the dog was like wtf😨😨😨 my guy I just wanted to say hi
+07/04/2024, 12:08 - Rufaro: 🤣🤣🤣🤣 was a pretty nice first episode for me
+07/04/2024, 14:47 - Ngoni: Knee jumped?
+07/04/2024, 14:54 - Rufaro: You need to see the scene my guy that was a knee jump on episode one when Dio meets Jojo
+07/04/2024, 15:07 - Ngoni: Which jojos is this? I know there's a bunch of them
+07/04/2024, 16:19 - Rufaro: I will check which one it is I wanted to start from the first one after all
+07/04/2024, 16:28 - Ngoni: Yeah check it out
+07/04/2024, 16:28 - Ngoni: Coz I've tried jojos, but I found there's a lot
+07/04/2024, 16:29 - Ngoni: Ever been watching something and think hmm, these guys skipped a frame?
+07/04/2024, 16:32 - Ngoni: <Media omitted>
+07/04/2024, 16:36 - Rufaro: <Media omitted>
+07/04/2024, 16:43 - Ngoni: <Media omitted>
+07/04/2024, 16:45 - Rufaro: <Media omitted>
+08/04/2024, 11:29 - Rufaro: Whooo yo there was a hell lot of work to do this weekend man and i did not even know to come to work imagine
+08/04/2024, 11:30 - Rufaro: The guys at work were so busy they forgot to call me though they said it would have been better if i was here on saturday or stayed later on Friday
+09/04/2024, 09:07 - Rufaro: Have you heard of AWE's dude
+09/04/2024, 09:15 - Rufaro: i might be able to use that for my project like imagine if i was to grade people on their perfomance on certain given mini paragraphs they enter so i predict whether it is them or not
+09/04/2024, 09:16 - Rufaro: that is another option although i will have a lot of work to do regardless.
+09/04/2024, 09:16 - Rufaro: I am still considering the alternative of that and voice recognition though so i will see what happens.
+09/04/2024, 09:28 - Ngoni: Must have been real busy huh
+09/04/2024, 09:30 - Ngoni: What's that?
+09/04/2024, 09:33 - Rufaro: You have no idea oh my manager was like "Tonight some people are not going to sleep so i am going to determine who will not sleep today and it will be (looks at me ) , not you, you should go home". And i am like "Okay " , (he looks at the other lady in my office and is like) "You are staying we need you and , nigel and brendon to be  on standby to help us take the system on live and once you are done we realize there is not merrit in sending you home in a taxi so you are going to sleep at a hotel." In my head i am like "Bruuuuuuh i also wanna sleep over at a hotel like come on man let me stay over"
+09/04/2024, 09:33 - Rufaro: Automated Writing Evaluator (AWE) basically using ML to score someone's essay
+09/04/2024, 09:34 - Rufaro: i was thinking about using that to try and score peoples answers to the security questions so my system can learn who often has such and such a number of scores and determine who the users is through that score you know.
+09/04/2024, 09:37 - Ngoni: Oh, sounds intense. Is it because of the zig thing?
+09/04/2024, 09:37 - Ngoni: Oh I see
+09/04/2024, 09:38 - Ngoni: How would you be scoring these answers exactly?
+09/04/2024, 09:44 - Rufaro: If i maybe score an individuals essay multiple times and store their scores i may be able to make a system that will remember your perfomance overtime that is an idea that i have though i am also considering speech recognition patterns like since voice doesn't change and it may be more convenient and secure although i would need a means to combat things like the new threat that is AI deepfakes and prerecorded audios so i am trying to see which option is better and more practical for me to implement cause i think i can actually get AWE model and then use that model for my project online for free. That is also the same thing i believe is possible for Voice matching system as well.
+09/04/2024, 09:44 - Rufaro: I can score them according to the IELTS(International English Language Testing System ) so as long as i have them manually enter information than use grammarly i may be able to make a unique score pattern for each individual who tries to enter information in the system
+10/04/2024, 17:28 - Rufaro: Yo wassup
+10/04/2024, 17:28 - Rufaro: I saw sekuru Chitanda today and guess what
+10/04/2024, 17:29 - Rufaro: People are afraid to bank their bonds cause they think they will get arrested
+10/04/2024, 17:42 - Ngoni: For prerecorded stuff you simply ask them to say random things
+10/04/2024, 17:42 - Ngoni: Let's see how it gets
+10/04/2024, 17:42 - Ngoni: Why would they be arrested?
+10/04/2024, 18:02 - Rufaro: If you deposit more than 100000 bond notes the bank will ask you to wait for the FIU they will interrogate you and ask why you have so many bond notes
+10/04/2024, 18:35 - Ngoni: Yeah that's scary 😂
+10/04/2024, 20:07 - Rufaro: Haha my guy the bank is empty and we gonna lose many more clients
+10/04/2024, 21:48 - Rufaro: <Media omitted>
+11/04/2024, 12:59 - Rufaro: Yo today i made my first model by myself. It predicts the Global sales for dfferent video games over the past years i guess maybe a decade or so but the dataset is huge anyway i think i am getting close enough to create the system that i wished to make you know i can only hope that i manage.
+11/04/2024, 13:00 - Rufaro: I am still waiting for feedback from my supervisor though
+11/04/2024, 20:55 - Ngoni: how does it not look like real skin?
+11/04/2024, 20:56 - Ngoni: that's dope....how big's the dataset?
+11/04/2024, 20:56 - Ngoni: Oh i see
+11/04/2024, 20:57 - Rufaro: Like you can tell it was like someone just colored it with some shades and stuff
+11/04/2024, 20:58 - Rufaro: It's like a really good painting where you gotta squint to tell its a painting
+11/04/2024, 20:58 - Rufaro: 1mb I guess still gonna double check if it was really correct tomorrow
+11/04/2024, 21:03 - Ngoni: Oh I see
+11/04/2024, 21:03 - Ngoni: That's not that big
+11/04/2024, 21:04 - Rufaro: However the dataset for the AWE is about 3.6mb
+11/04/2024, 21:05 - Rufaro: I will then also create another dataset (relativelysmall for my project to predict tye user interacting with the systemas well )
+11/04/2024, 21:05 - Rufaro: Huge datasets take long to make after all
+11/04/2024, 21:06 - Ngoni: Alright just do what you can but the bigger the dataset, the better
+11/04/2024, 21:07 - Rufaro: Yeah you do have a point let me see what I can do about that cause I could start making one as I am getting ready to develop the model
+12/04/2024, 07:44 - Rufaro: Yo new LLM's are being made day  by day and it is unbelievable
+12/04/2024, 07:47 - Rufaro: some are just being made by students participating in competitions trying to make ML models for practice
+12/04/2024, 07:47 - Ngoni: They are not exactly new. It's the same ones being modified often. Once in a while we have a new LLM but it's usually llama and chat gpt
+12/04/2024, 07:48 - Rufaro: No like i understand some people seem to be just building them from the ground up though yeah some of them are using already prebuilt LLM's
+12/04/2024, 07:49 - Rufaro: Kaggle provides a lot of datasets that people can use after all to create their models
+12/04/2024, 09:06 - Ngoni: Ground up? That's a lot of work
+12/04/2024, 09:07 - Rufaro: They like we doing it for educational purposes or something like that
+12/04/2024, 09:18 - Ngoni: Oh I see
+12/04/2024, 17:26 - Ngoni: Rdc world be like 'one hashira can beat all the titans"
+12/04/2024, 17:48 - Rufaro: What is he smoking like come on my guy Don't underestimate them titans
+12/04/2024, 17:49 - Rufaro: Is he high cause the female, warhammer , armored would kinda be hard to handle then you gotta deal with the colossal as well
+12/04/2024, 17:49 - Ngoni: <Media omitted>
+12/04/2024, 17:51 - Rufaro: The colossal transforms while he is in 1km radius he is dying worse if its the eren founding titan as well that thing would waste him maybe he could escape
+12/04/2024, 17:51 - Rufaro: I see him beating female, cart , jaws , attack ,beast and the abnormal titans
+12/04/2024, 17:52 - Rufaro: The armored is a draw probably , the warhammer is a draw the colossal that is a loss no doubt
+12/04/2024, 17:52 - Ngoni: Could it transform before the sound hashira has cut off his head? That nigga fast as hell
+12/04/2024, 17:53 - Rufaro: If he know who he is fighting before it happens and remember them titans can pull miracles imagine they pull a reigner where they move their consciousness to their spine before you cut his head off automatic transformation
+12/04/2024, 17:54 - Rufaro: Everybody is ☠️☠️☠️☠️☠️
+12/04/2024, 17:54 - Ngoni: <Media omitted>
+12/04/2024, 17:56 - Rufaro: Yeah but the colossal is a nuke if they fails like I was saying to kill him on the first hit you dead its like a cursed sorcerer fighting mahoraga for the first time if he don't die on the first hit you gonna die
+12/04/2024, 17:57 - Rufaro: They could beat most of the titans except the abnormal titan shifter eren and the colossal probably
+12/04/2024, 17:57 - Rufaro: To beat the colossal they would have to attack after he transforms and runs out of energy basically only way to win
+12/04/2024, 17:58 - Ngoni: Those guys cut heads for a living, no way they'd fail that
+12/04/2024, 17:59 - Rufaro: Transferring consciousness remember reigner ?
+12/04/2024, 17:59 - Rufaro: Maybe cutting him to bits in an instant may work through the neck and torso maybe
+12/04/2024, 18:00 - Ngoni: Colossal would fall, even to someone like zenitsu. All he needs to do is run away at lightning speed when it transforms the come back later to strike the neck
+12/04/2024, 18:01 - Ngoni: You can't transfer shit if your head is on the floor
+12/04/2024, 18:01 - Rufaro: Trainer did it twice the he'll you talking about the second time he didn't even have his head anymore
+12/04/2024, 18:02 - Rufaro: Though it could be plot armour
+12/04/2024, 18:02 - Rufaro: Will they have plot armour in this fight cause if so eren winning too in normal titan form
+12/04/2024, 18:02 - Rufaro: I mean attack titan
+12/04/2024, 18:05 - Ngoni: Do you think reiner would able to beat that upper four?
+12/04/2024, 18:05 - Rufaro: He would probably die at upper 6 but upper 5 would die that one was a fraud
+12/04/2024, 18:07 - Rufaro: I would say eren knowing the future may be a problem for even upper 3 maybe even 1 depending on what future he sees cause I believe the ability to see the future affects it as well
+12/04/2024, 18:07 - Ngoni: In the demon slayer world,  those titans don't really stand a chance. They're too slow and have obvious weaknesses.
+12/04/2024, 18:08 - Ngoni: Eren's too slow
+12/04/2024, 18:08 - Rufaro: Don't underestimate them though if they catch off guard it would mean death
+12/04/2024, 18:50 - Rufaro: Here is another take one piece pirate's vs ninjas from naruto even gecko moria could beat a number of them ninjas
+12/04/2024, 18:51 - Rufaro: And whitebeard in his prime can can beat pain
+12/04/2024, 19:47 - Ngoni: Mmm that's a difficult one now
+12/04/2024, 19:48 - Ngoni: Which ninjas, there's too many of them
+12/04/2024, 20:04 - Rufaro: Gecko Maria vs hidan or deidara
+12/04/2024, 20:04 - Rufaro: Crocodile vs gaara
+12/04/2024, 20:05 - Rufaro: Fujitora vs kakashi or obito
+15/04/2024, 17:19 - Rufaro: Afternoon
+15/04/2024, 17:23 - Ngoni: Yo
+15/04/2024, 17:23 - Ngoni: How's it
+15/04/2024, 17:31 - Rufaro: Was doing a bit of ml today and guess what preprocessing is hard phew
+15/04/2024, 17:33 - Rufaro: Sklearn gives a lot of tools and models that can be used for building your own models but the part about preprocessing maybe one of the hardest parts
+15/04/2024, 17:33 - Rufaro: How was work
+15/04/2024, 17:44 - Ngoni: It's a lot of work dude. Did you manage to create a good enough dataset?
+15/04/2024, 17:44 - Rufaro: Not yet need to decide the parameters of my dataset
+15/04/2024, 17:45 - Rufaro: First I will get short paragraphs from my audiences I guess
+15/04/2024, 17:45 - Rufaro: Should probably use Microsoft forms for convenience
+15/04/2024, 18:09 - Ngoni: Oh okay
+15/04/2024, 18:09 - Ngoni: Yeah probably
+16/04/2024, 15:21 - Ngoni: Yo
+16/04/2024, 15:22 - Ngoni: When you went to deposit money at the bank, was the deposit machine inside or outside?
+16/04/2024, 15:30 - Rufaro: at the bank it was just inside in the foyer like place.
+16/04/2024, 15:30 - Rufaro: It is besides the spot were the ATM is like to the right that is if you want to use the same bank that i went to which was i think in nelson mandela street
+16/04/2024, 18:42 - Ngoni: OK thanks
+16/04/2024, 18:43 - Ngoni: Did you listen to the story I shared in the group?
+16/04/2024, 18:43 - Rufaro: You mean the baboon guy
+16/04/2024, 18:44 - Ngoni: Yeah
+16/04/2024, 18:44 - Rufaro: Didn't finish it where did you get the audio man 🤣🤣🤣
+16/04/2024, 18:49 - Rufaro: Okay finished it now that is the worst way of getting robbed I can think of
+16/04/2024, 18:49 - Rufaro: I mean I think being robbed at gunpoint is better to be honest
+16/04/2024, 18:54 - Ngoni: 27 dollars 😂😂
+16/04/2024, 18:55 - Ngoni: Guy was robbed
+16/04/2024, 18:55 - Ngoni: Imagine those guys going to beitbridge😂😂
+16/04/2024, 18:55 - Rufaro: You couldn't even get mad cause what if you said "ndakupai mari wangu and then it starts barking at you
+16/04/2024, 18:56 - Rufaro: I can hardly think how that would end did they not alight with this dude though
+16/04/2024, 18:56 - Ngoni: The fact that it was talking manje😂
+16/04/2024, 19:00 - Rufaro: Well all kinds of things happen in this country after all
+19/04/2024, 08:20 - Rufaro: <Media omitted>
+19/04/2024, 08:26 - Ngoni: Didn't I tell you it was fake?
+19/04/2024, 08:26 - Ngoni: Oh I hadn't told you yet
+19/04/2024, 08:26 - Ngoni: I figured it out all the way
+19/04/2024, 08:26 - Rufaro: Oh how did you find out I though you said it sounded like a good deal
+19/04/2024, 08:27 - Ngoni: They basically are aiming at stealing steal your money through the 'transport' fee
+19/04/2024, 08:28 - Rufaro: What ???  Thieves are becoming more and more creative nowadays aren't they
+19/04/2024, 08:28 - Ngoni: So this is how I figured it out, they will post a car, but if you do an image search of the car you will realize that they are stealing images from other accounts, I found one of the cars on an Instagram page of a company called high class car sales. The image was from 2022
+19/04/2024, 08:29 - Ngoni: They take the image, and tell you they have the car, they don't. It's all fake
+19/04/2024, 08:29 - Ngoni: The other thing that gave them aways was the pricing. A new Toyota aqua cost 7k to 8k
+19/04/2024, 08:30 - Ngoni: They would sell it for 5k
+19/04/2024, 08:30 - Rufaro: But won't you end up having to rent a car though so how will it go if you try to rent a car they do not have
+19/04/2024, 08:30 - Ngoni: That's impossible
+19/04/2024, 08:31 - Rufaro: That mean the car is second had or simply some other fake brand like a Tayota like how the awesome store from gumball had a TV called soppy
+19/04/2024, 08:31 - Ngoni: And finally, I noticed that they posted a car they had claimed to have sold before. So their group has disappearing text but I was sure they posted the car twice. How is that possible when they had sold the car
+19/04/2024, 08:32 - Ngoni: They are in Beitbridge. So they say they will deliver the car to you after you have paid the transport fee, the question is, will they really?
+19/04/2024, 08:32 - Rufaro: Hmmm that is like some desperate type of marketing to get some form of income from scamming people
+19/04/2024, 08:33 - Rufaro: You remind me of the furniture delivery service that would scam people out of their money by accepting money and never actually delivering the furniture
+19/04/2024, 08:34 - Ngoni: No no no, even if it's second hand. Dude, a second hand car with a mileage of 70000 km is basically brand new. Those cars are they ones sold for 8000. The same car if it were really brand new it would sell for about 10000
+19/04/2024, 08:35 - Rufaro: Damn like people out here thinking of creative ways to steal what they actual he'll man
+19/04/2024, 08:35 - Rufaro: That is all kinds of wrong
+19/04/2024, 08:36 - Ngoni: I can assure you, they do not have the cars they claim to have. It's simply not possible
+19/04/2024, 08:37 - Ngoni: Maybe they do have cars, but the ones they are saying are available for renting, those cars don't exist, they are stolen pictures
+19/04/2024, 08:38 - Rufaro: Damn do they then require you to give them money first before they give you a car
+19/04/2024, 08:38 - Ngoni: One other thing is, if they really were giving people these cars, how come they have never posted it? Lots of car dealers will ask if they can take a picture of you and your new car to put on their page, these guys don't have a single one. So the question is to whom are they selling? It's all fake <This message was edited>
+19/04/2024, 10:04 - Rufaro: What The Hell(Imagine in Steven he accent from "emotional damage accent") this another type of scam what is wrong with them anyway
+19/04/2024, 17:18 - Ngoni: <Media omitted>
+20/04/2024, 17:55 - Rufaro: <Media omitted>
+20/04/2024, 17:56 - Rufaro: <Media omitted>
+20/04/2024, 18:02 - Ngoni: Asi there's a lot of unrealistic expectations?
+20/04/2024, 18:42 - Rufaro: <Media omitted>
+21/04/2024, 12:01 - Rufaro: Yo wassup
+21/04/2024, 12:02 - Rufaro: <Media omitted>
+21/04/2024, 12:24 - Ngoni: Yo
+21/04/2024, 12:24 - Ngoni: Let me try to finish it
+21/04/2024, 12:25 - Rufaro: Okay sure
+21/04/2024, 12:26 - Rufaro: Have you ever written a methodology for a research before
+21/04/2024, 12:26 - Ngoni: Yeah
+21/04/2024, 12:27 - Ngoni: Final year
+21/04/2024, 12:32 - Rufaro: Is the methodology like a list of steps I followed or instructions that others can follow if they want to replicate my research
+21/04/2024, 12:35 - Ngoni: It's the techniques you're using in the process of creating whatever you're creating
+21/04/2024, 12:36 - Ngoni: Like how did you create your dataset
+21/04/2024, 12:36 - Ngoni: How did you clean it
+21/04/2024, 12:36 - Ngoni: How did you analyze and train etc
+21/04/2024, 12:36 - Rufaro: Oh I see
+21/04/2024, 12:36 - Rufaro: Okay thanks
+21/04/2024, 13:02 - Rufaro: Also if you could get your hands on your methodology could you give it to me
+21/04/2024, 19:18 - Rufaro: Yo Did you manage to finish the movie
+21/04/2024, 20:28 - Ngoni: Hmm, I'll look to see if I still have it
+21/04/2024, 20:28 - Ngoni: Nope, not yet
+21/04/2024, 20:28 - Rufaro: Oh okay not a problem then
+21/04/2024, 20:29 - Rufaro: So lately today I was watching this YouTube channel called.lostreak.chicken and I realised that this university education system is too overwhelming
+21/04/2024, 20:30 - Rufaro: <Media omitted>
+21/04/2024, 20:39 - Ngoni: Hmm, I see. The traveling is obviously a hustle and takes a lot of time. So when it comes to studying, you could do it a little different. Sometimes when you have time you can do the studying at work, that way, you won't need to pressure yourself to do it when you get home. That's only if it's possible at work.
+21/04/2024, 20:41 - Ngoni: <Media omitted>
+21/04/2024, 20:40 - Rufaro: <Media omitted>
+21/04/2024, 20:45 - Rufaro: <Media omitted>
+21/04/2024, 21:19 - Ngoni: Just focus on your work man. If they say you're easily replaced then it might not be worth to fight over opinions even though you have a better solution
+21/04/2024, 21:19 - Ngoni: Ego is a thing in these companies and some people just want to do the bare minimum to get along
+21/04/2024, 21:27 - Rufaro: Exactly like I see this resulting in mass retirements where the thing is this is what cbz wants to a certain extent cause of the merger with zb Bank but I believe the rate of resignations will be more than the bank can handle cause I made an application that merges excel files and can be used to collect certain data for my workmate imagine he resigns I finish attachment and someone else comes wanting to do the same task as him they might not even know the application exists and even if they do they may not know how to get it either
+22/04/2024, 10:28 - Ngoni: They are a big business, they'll probably know how to take care of it. All you can do is focus on you and mind your own business coz, it'll be stressful otherwise. I say don't even listen to those that want to resign, they want others to do the same as them but remember you're not the same. So set your own goals, let them resign, for you it's just attachment, you're doing it for your grade, and for connections to the bank.
+23/04/2024, 13:04 - Rufaro: yo wassup how are you doin g
+25/04/2024, 12:40 - Rufaro: Good afternoon how are you doing i am good here learning more and more on machine learning and will likely be able to make my project successfully i am hoping.
+26/04/2024, 12:33 - Ngoni: Hey hey
+26/04/2024, 12:33 - Ngoni: That's dope
+26/04/2024, 12:34 - Ngoni: What have you leant so far?
+26/04/2024, 13:20 - Rufaro: I learnt more on data manipulation took a 4 hour course on kaggle
+26/04/2024, 13:39 - Ngoni: That's dope
+26/04/2024, 13:39 - Ngoni: was it on pandas?
+26/04/2024, 13:50 - Rufaro: Yeah pandas
+26/04/2024, 13:51 - Rufaro: The guys here also lecturing me on model perfomance training prerequisites and more so soon I will have a model ready and set for use
+26/04/2024, 14:01 - Rufaro: Gone for etiquette training today they be making some of our clothing choices difficult think I may have to go shopping for new clothes later
+26/04/2024, 14:10 - Ngoni: OK so that's good
+26/04/2024, 14:10 - Ngoni: You will have to, what do they suggest you should wear?
+26/04/2024, 14:11 - Rufaro: Yeah I am still trying to find a direction on how my model will tackle the problem and what kind of data I will transform
+26/04/2024, 14:11 - Rufaro: Yeah but this broke nigga don't like formal wear and you know it
+26/04/2024, 14:18 - Ngoni: Oh I see
+26/04/2024, 14:18 - Ngoni: How formal are they talking about? Is could actually be cheap
+26/04/2024, 18:12 - Rufaro: Business formal, semi formal or smart casual
+26/04/2024, 18:22 - Ngoni: Oh I see
+26/04/2024, 18:23 - Ngoni: You can get some nice formal-ish shoes for 25
+26/04/2024, 18:23 - Ngoni: Then shirts for 10 bucks and chinos for 10 to 12
+27/04/2024, 11:39 - Rufaro: Okay I will try and look for some at the shops later
+27/04/2024, 11:40 - Rufaro: Good morning anyways did you hear about Rutendo
+27/04/2024, 11:46 - Ngoni: Nope
+27/04/2024, 11:46 - Ngoni: What happened?
+27/04/2024, 11:47 - Rufaro: <Media omitted>
+27/04/2024, 19:11 - Ngoni: <Media omitted>
+27/04/2024, 19:20 - Rufaro: <Media omitted>
+27/04/2024, 19:57 - Ngoni: Baby clothes
+27/04/2024, 19:58 - Ngoni: You can't go wrong with those
+27/04/2024, 20:45 - Rufaro: I will get her baby boots then maybe pampers
+28/04/2024, 16:56 - Rufaro: <Media omitted>
+28/04/2024, 18:34 - Rufaro: <Media omitted>
+28/04/2024, 19:00 - Ngoni: That's great. But did she really call her Rufaro?
+28/04/2024, 19:01 - Ngoni: Oh, finally. What will you be crunching bro?
+28/04/2024, 19:01 - Rufaro: Don't know
+28/04/2024, 19:02 - Rufaro: <Media omitted>
+28/04/2024, 19:23 - Ngoni: Why would they be turning it off?
+28/04/2024, 19:23 - Ngoni: Interesting
+28/04/2024, 19:24 - Rufaro: I am not sure there but will probably find out later
+28/04/2024, 19:25 - Rufaro: So this side water is almost out and we going back to bahai while planning our way forward whether to blast the stone under the well or to dig a deeper borehole
+28/04/2024, 19:26 - Rufaro: Borehole will cost a bargain minimum of 500 dollars so hoping to blast the well for something like 50 dollars if possible
+28/04/2024, 19:34 - Ngoni: Back to what?
+28/04/2024, 19:35 - Ngoni: Sounds like even tho the borehole is expensive, it might be a better option in the long run, but getting the money tho
+28/04/2024, 19:37 - Rufaro: Oh we buy water from bahai monthly
+28/04/2024, 19:37 - Rufaro: We pay for 2 dollars to get four buckets worth of water everyday
+28/04/2024, 19:38 - Ngoni: Two dollars per month?
+28/04/2024, 20:15 - Rufaro: <Media omitted>
+28/04/2024, 20:19 - Ngoni: Oh I see
+28/04/2024, 20:45 - Rufaro: Yeah the borehole only works when there is electricity though so problem is that the power cuts result in no water for some periods of time
+28/04/2024, 20:48 - Ngoni: That would suck big time
+28/04/2024, 20:51 - Rufaro: <Media omitted>
+29/04/2024, 13:49 - Rufaro: <Media omitted>
+29/04/2024, 13:49 - Rufaro: <Media omitted>
+29/04/2024, 18:17 - Ngoni: Progress man💪
+30/04/2024, 11:27 - Rufaro: yo the new currency is out
+30/04/2024, 11:27 - Rufaro: the notes and coins i mean
+30/04/2024, 11:35 - Rufaro: https://docs.google.com/forms/d/e/1FAIpQLSc-R6JG6TTGeNC7R59rbsBblX45MtCDizVwvbcMK061CzTGgQ/viewform?usp=sf_link
+30/04/2024, 11:35 - Rufaro: can you check out this form i made do you think that withit i can collect sufficient text data for my machine learning algorithm to make predictions with the data it has
+30/04/2024, 19:19 - Rufaro: <Media omitted>
+30/04/2024, 19:19 - Rufaro: Feedback on what it feels like to be assessed by my UZ supervisor
+30/04/2024, 19:23 - Ngoni: Do you have it?
+30/04/2024, 19:23 - Rufaro: <Media omitted>
+30/04/2024, 19:24 - Ngoni: <Media omitted>
+30/04/2024, 19:26 - Rufaro: That was a mistake igno
+30/04/2024, 19:26 - Rufaro: Ignore that one
+30/04/2024, 19:27 - Ngoni: Depends on how much data you want, the struggle is gonna be getting people to fill in with enough data, coz your questions require long answers
+30/04/2024, 19:27 - Rufaro: I want to see how much text data I can gather from people and if it would be enough
+30/04/2024, 19:27 - Rufaro: I thought so but that is the whole point I will continue to search for data on kaggle though
+30/04/2024, 19:27 - Ngoni: Yo😂😂
+30/04/2024, 19:28 - Ngoni: Oh I see
+30/04/2024, 19:28 - Rufaro: I have made peace with the possibility of failure already so yep there is that
+30/04/2024, 19:29 - Ngoni: You can even go as far as mining tweets for text, so that you have a larger dataset
+30/04/2024, 19:29 - Ngoni: Just try your best
+30/04/2024, 19:29 - Rufaro: That is actually a good idea thanks I could use that
+03/05/2024, 16:21 - Rufaro: Yo how are you doing
+03/05/2024, 16:57 - Ngoni: How's it
+03/05/2024, 16:57 - Ngoni: I'm alright
+03/05/2024, 17:46 - Rufaro: I am good my models are getting better and I have decided to build hierarchical models
+03/05/2024, 17:47 - Rufaro: I should have a working prototype by maybe month end if all goes well and I also get good training resources
+03/05/2024, 17:47 - Rufaro: I want to ask my friends for some of their WhatsApp chats of course so I can have the models learn
+03/05/2024, 17:48 - Rufaro: Also have I was told Rutendo's baby is called Hailey
+03/05/2024, 18:03 - Ngoni: Oh that's nice
+03/05/2024, 18:03 - Ngoni: Month end seems reasonable
+03/05/2024, 18:03 - Ngoni: Oh okay, sounds good
+03/05/2024, 18:04 - Ngoni: Oh, is she a fan of the joker or something
+03/05/2024, 18:04 - Rufaro: Also watch ninja kamui my guy
+03/05/2024, 18:06 - Ngoni: <Media omitted>
+03/05/2024, 18:13 - Rufaro: Yeah I liked that part to though the robot part is a turn of for a number of fans
+03/05/2024, 18:14 - Rufaro: The deaths are awesome it's like animation studios have a hard time nowadays mixing fast paced action, visibility and choreography so ninja kamui was refreshing for me
+03/05/2024, 19:39 - Ngoni: <Media omitted>
+03/05/2024, 19:56 - Rufaro: <Media omitted>
+03/05/2024, 19:58 - Ngoni: Oh, so he's pretty good
+03/05/2024, 19:58 - Ngoni: Coz it definitely had the same vibe
+03/05/2024, 19:58 - Rufaro: <Media omitted>
+03/05/2024, 20:00 - Ngoni: Almost like what happened to AOT when they introduced CGI
+03/05/2024, 20:01 - Rufaro: <Media omitted>
+04/05/2024, 18:41 - Rufaro: <Media omitted>
+04/05/2024, 19:27 - Ngoni: They be training some judo😂😂
+04/05/2024, 19:37 - Rufaro: <Media omitted>
+04/05/2024, 19:38 - Ngoni: That's a judo move bro😂😂
+04/05/2024, 19:41 - Rufaro: That is what I was thinking and all this over change imagine
+04/05/2024, 19:42 - Rufaro: People have become very aggressive due to hard times right now and it is becoming scary to even say good morning to your neighbour if you have not established that you are friends
+04/05/2024, 20:57 - Ngoni: There's no change out there, it sucks
+04/05/2024, 20:57 - Ngoni: Yeah
+04/05/2024, 21:00 - Ngoni: Have you touched zig yet?
+04/05/2024, 21:01 - Rufaro: No not yet the bank ran out of notes within two days of the introduction of the zig
+04/05/2024, 21:02 - Rufaro: First day there was an immense queue outside the bank like ridiculously long ass queue
+04/05/2024, 21:03 - Ngoni: Oh wow
+04/05/2024, 21:04 - Ngoni: I have somebody who was wondering why people were queuing up
+04/05/2024, 21:11 - Rufaro: Most people are paid in zig nowadays and so what that means as money changers are also being arrested is that the people will need to carry cash with them for business to work
+04/05/2024, 21:11 - Rufaro: If you wanna buy groceries at home go buy with zig that is the idea
+04/05/2024, 21:29 - Rufaro: Did you finish kung fu panda by the way
+04/05/2024, 21:34 - Ngoni: So are people buying it also arrested?
+04/05/2024, 21:34 - Ngoni: Yeah i did, not bad
+04/05/2024, 21:35 - Rufaro: Yep you is money laundering cause both of you is changing the currencies
+04/05/2024, 21:35 - Ngoni: Oh I see
+04/05/2024, 21:35 - Rufaro: <Media omitted>
+04/05/2024, 21:37 - Ngoni: Exactly, the villains reason wasn't all that
+04/05/2024, 21:38 - Ngoni: No depth
+04/05/2024, 21:38 - Ngoni: Kai and Tai long were understandable
+04/05/2024, 21:38 - Rufaro: <Media omitted>
+04/05/2024, 21:39 - Rufaro: <Media omitted>
+04/05/2024, 22:04 - Ngoni: Shen just wanted to kill people
+04/05/2024, 22:05 - Ngoni: He was serious
+04/05/2024, 22:05 - Ngoni: Kai and Tai Lung were mu favorite tho
+04/05/2024, 22:05 - Rufaro: Yeah I almost feel the story writer for the chameleon may have been different than the guys from the other movies
+04/05/2024, 22:06 - Rufaro: Tai long is legendary especially that prison break out scene
+04/05/2024, 22:07 - Rufaro: Like it was well scripted and the action was fun it gave a unique perspective to dreamworks action animation with kung-fu
+04/05/2024, 22:07 - Rufaro: I can tell the difference between kung-fu panda style fight scenes and other animation studio fight scenes die to it somehow
+04/05/2024, 22:10 - Ngoni: That prison break was classic 🤌
+04/05/2024, 22:11 - Ngoni: The thing with the other movies was you couldn't tell if Po would even be able to win
+04/05/2024, 22:12 - Ngoni: The chameleon movie I felt Po would win all day
+04/05/2024, 22:31 - Rufaro: True I think this was just because they wanted to wrap up the story of Po which is why they made him weaker or he decided to just let the fox be the one to defeat the chameleon
+04/05/2024, 22:43 - Ngoni: So the fox is gonna be the next dragon warrior then
+04/05/2024, 22:43 - Rufaro: Yep according to the movie
+04/05/2024, 22:44 - Ngoni: Hmm, we still want Po tho
+04/05/2024, 22:44 - Ngoni: He's still a teenager 🤷‍♂️
+04/05/2024, 22:46 - Rufaro: Yeah but this is how they wanted kung-fu panda to go so the fox will probably be the new hero unless Po continues going on adventures as the master teaching his student then maybe
+04/05/2024, 22:53 - Ngoni: Hmm, sounds like it'll suck
+05/05/2024, 07:09 - Rufaro: I feel like it will cause the brand of kung-fu panda is built of Po
+05/05/2024, 09:29 - Rufaro: https://youtube.com/shorts/s-bX4mwOel8?si=70_ilLbPnsuXdQAt
+05/05/2024, 09:29 - Rufaro: <Media omitted>
+05/05/2024, 09:31 - Ngoni: <Media omitted>
+05/05/2024, 09:31 - Ngoni: https://youtu.be/KTbNms5yHgI?si=mW8akDBSogzPZLDc
+05/05/2024, 09:37 - Rufaro: <Media omitted>
+05/05/2024, 11:39 - Rufaro: https://youtube.com/shorts/cMCp0BCc3Zc?si=2E4ClbCbx01P50vC
+05/05/2024, 11:39 - Rufaro: <Media omitted>
+05/05/2024, 11:45 - Ngoni: Money 😂😂
+05/05/2024, 11:46 - Ngoni: What's happening to the game?
+05/05/2024, 12:21 - Rufaro: <Media omitted>
+05/05/2024, 14:04 - Ngoni: <Media omitted>
+05/05/2024, 14:05 - Ngoni: Obviously I'd want my refund too
+05/05/2024, 14:05 - Ngoni: What they be doing making it harder for people 🤷‍♂️
+05/05/2024, 14:07 - Rufaro: I am not sure there is a lot happening in the game industry right now where a lot of the AAA game studios and companies are trying to squeeze money out the customers pockets
+05/05/2024, 14:08 - Rufaro: Customers end up wanting to go with indie games that are working with lesser known and smaller studios in the end cause these studios won't play stupid games with them
+05/05/2024, 15:59 - Ngoni: Indie games is the way
+05/05/2024, 15:59 - Ngoni: These guys sometimes really be trying to kill people's pockets
+05/05/2024, 17:51 - Rufaro: GTA is supposed to cost about $80 on release that is how bad the game industry is getting
+05/05/2024, 18:52 - Rufaro: https://youtube.com/shorts/Y0nKmbLkNCY?si=xHEHA-L58125jXdA
+05/05/2024, 18:52 - Rufaro: Another one check it out
+05/05/2024, 19:08 - Ngoni: Metro dropped one too?😂
+05/05/2024, 19:08 - Ngoni: People will buy it tho
+05/05/2024, 19:34 - Rufaro: I don't know how drake gonna be sleeping tonight honesty
+05/05/2024, 21:44 - Ngoni: Man needs sleeping pills
+05/05/2024, 21:45 - Rufaro: Yup a lot of them but kendrick will probably drop another disstrack as an alarm for drake
+05/05/2024, 21:51 - Ngoni: Probably, 5 said he still got 5 more
+05/05/2024, 21:52 - Rufaro: 5 more that guy hates drakes existence damn
+05/05/2024, 21:52 - Ngoni: It's basically an album at this point
+05/05/2024, 21:53 - Rufaro: Yup his response to a Diss is to release an album 🤣🤣🤣
+05/05/2024, 21:54 - Ngoni: Bet he's in the studio right now 😂
+06/05/2024, 07:55 - Rufaro: <Media omitted>
+06/05/2024, 07:57 - Rufaro: Hello careful so in this in the IT staff group this notice is fake the logo is old and we send applications on LinkedIn rather than outlook most of the time, tell others
+06/05/2024, 08:00 - Ngoni: And why would a big bank use outlook and not it's own domain
+06/05/2024, 08:07 - Rufaro: Exactly people just might not be aware though is a problem
+06/05/2024, 19:48 - Ngoni: <Media omitted>
+06/05/2024, 20:38 - Rufaro: <Media omitted>
+06/05/2024, 21:08 - Rufaro: https://youtu.be/_EyPUsO4LAY?si=TT0N9kbjY6W9pElz
+06/05/2024, 21:10 - Ngoni: They could have done way better. Now it's rubbish
+06/05/2024, 21:11 - Ngoni: I don't feel like finishing it now
+06/05/2024, 21:15 - Ngoni: BBL drizzy has blown up 😂
+06/05/2024, 21:48 - Ngoni: <Media omitted>
+06/05/2024, 21:48 - Ngoni: <Media omitted>
+06/05/2024, 21:53 - Rufaro: <Media omitted>
+06/05/2024, 21:56 - Ngoni: Shadaya was speaking garbage
+06/05/2024, 21:57 - Ngoni: He had already picked a side, even if drake actually did the stuff, he'd never believe it
+06/05/2024, 21:57 - Rufaro: Yeah I am gonna look out for kendricks next song see he drops shadaya's name in it
+06/05/2024, 21:58 - Rufaro: Yep
+06/05/2024, 21:59 - Ngoni: Nah, shadaya small fry
+06/05/2024, 22:01 - Rufaro: Remember shadaya called J Cole a bitch for apologising to kendrick
+07/05/2024, 05:45 - Ngoni: Once in a while you should come and sleep over man
+07/05/2024, 05:45 - Ngoni: When you don't feel like traveling
+07/05/2024, 05:51 - Rufaro: Yeah sure maybe on weekends
+07/05/2024, 09:13 - Rufaro: Yo wassup
+07/05/2024, 09:18 - Ngoni: Yo
+07/05/2024, 09:18 - Rufaro: this morning was late to work cause i did not want to board a trip trans
+07/05/2024, 09:18 - Rufaro: i am not even upset about it cause i know that it i did board that bus i would not be making it to work
+07/05/2024, 09:22 - Rufaro: They wanted customers so bad they refused to allow all other buses to board as long as customers did not board their bus till they were in standing
+07/05/2024, 09:30 - Rufaro: Ndazotisiya vanhu vakutoda kutanga violence with one conductor from trip trans when this other Zupco driver came by and was like i don't work with trip trans i am not gonna wait in line i got a job to do.
+07/05/2024, 09:32 - Ngoni: They refused all other buses? That's crazy
+07/05/2024, 09:33 - Ngoni: Yeah, he was right to do that. Why don't people like trip trans?
+07/05/2024, 09:35 - Rufaro: Bro they treat you like they herding cows it is ridiculous like you could simply want to just take a sit and go home and these guys would want to stop and every bus stop to pick up passengers even when the bus is full of standing and after the bus is full they will start packing you together like laundry
+07/05/2024, 09:35 - Rufaro: the worst part is they have been known to get physical if you complain and they hire too many conductors just for the point of getting physical
+07/05/2024, 11:30 - Ngoni: Stopping at every bus station is the worst, you could easily take two hours for a journey that's supposed to be an hour long
+07/05/2024, 11:31 - Ngoni: Hmm, sounds like some terrible business
+07/05/2024, 11:31 - Ngoni: What time do you get off work?
+07/05/2024, 11:31 - Rufaro: That is what ends up happening
+07/05/2024, 11:31 - Rufaro: 16:30 sometimes maybe even at 16:00
+07/05/2024, 11:34 - Ngoni: And i can imagine the pain of having people keep coming in when the bus is already full. You won't even be able to breathe in there
+07/05/2024, 11:34 - Ngoni: Oh I see
+08/05/2024, 13:58 - Rufaro: Yo how are you doing so Ano has arrived in town just giving you a heads up before he storms over to your office
+08/05/2024, 13:59 - Rufaro: i couldn't keep him here with me cause there is the issue of security and just allowing strangers into the bank and he has never been to domboshava so i thought he could stay over there with you it would be fine
+08/05/2024, 15:03 - Ngoni: It's okay. I already met him
+08/05/2024, 15:20 - Rufaro: cool just checking to make sure nobody ends up disappearing with all the weird stuff that happens nowadays after all. Also help the dude look smart tomorrow so he be okay when he gets to campus tomorrow
+08/05/2024, 15:22 - Rufaro: Today i was making a model with neural networks and it got 83% accuracy and my supervisor was like "No way this kid already working well with neural networks this fast" He checks my models notices that they are just as accurate with another shallow model that is simpler and is like "how big is your dataset"
+08/05/2024, 15:23 - Rufaro: I go "its 719 rows" and he goes "yeah use neural networks only for large ammounts of data not small like that otherwise it could just cram the information you fed it " , so now i want to check what happens when i give it unseen data. will update you on my progress for this week with machine learning but it is challenging.
+08/05/2024, 15:44 - Ngoni: Okay i see. Yeah he's right, it might overfit if there's small amounts of data
+08/05/2024, 15:47 - Rufaro: And I was kinda happy and disappointed at the same time too 😔😔😔
+08/05/2024, 15:54 - Ngoni: Why would you be disappointed exactly?
+08/05/2024, 16:06 - Rufaro: i did a tutorial on another deep learning model and it got a 100% accuracy so i was like this could help me get 100% accuracy as well for other problems and it then i got the results that i got
+08/05/2024, 16:06 - Rufaro: i may still have a bit of a ways to go but i will make someday or another i am sure
+08/05/2024, 20:25 - Ngoni: That's machine learning man
+08/05/2024, 20:25 - Ngoni: There aren't that many models with a hundred percent accuracy
+08/05/2024, 20:49 - Rufaro: Yeah I understand the guys I work with be talking about making their models 99 to 90% accurate so I am gonna have to keep trying for a while I guess
+08/05/2024, 20:59 - Ngoni: Yeah keep it going
+08/05/2024, 20:59 - Ngoni: Anything above 90 is okay
+08/05/2024, 21:08 - Rufaro: Yeah will aim for that
+10/05/2024, 09:19 - Rufaro: Yo how is Ano
+10/05/2024, 09:25 - Ngoni: He's coming to your place today
+10/05/2024, 09:34 - Rufaro: oh is  that so what time does he want to meet in town
+10/05/2024, 09:34 - Rufaro: i often get off at around 16:30
+10/05/2024, 09:36 - Rufaro: also give him my jersey
+10/05/2024, 09:37 - Rufaro: i don't watch soccer but a free shirt is always appreciated that is all i have to say
+10/05/2024, 11:02 - Ngoni: At 4
+10/05/2024, 11:02 - Ngoni: Contact him
+10/05/2024, 11:03 - Ngoni: Hmm, I wonder where I put it
+10/05/2024, 11:03 - Ngoni: We'll see
+10/05/2024, 11:03 - Rufaro: seems like his phone is not online
+10/05/2024, 15:43 - Rufaro: <Media omitted>
+10/05/2024, 21:13 - Rufaro: Yo got home with Ano safely
+10/05/2024, 21:16 - Ngoni: Nice, what time?
+10/05/2024, 21:16 - Ngoni: 99% AI
+10/05/2024, 21:17 - Rufaro: 19:15
+10/05/2024, 21:17 - Rufaro: Yep hehe 😜 😅 ☺️
+10/05/2024, 21:23 - Ngoni: Every article I write these days is detected as 99% AI
+10/05/2024, 21:24 - Rufaro: Really could be a case of the AI learning the wrong patterns
+10/05/2024, 21:24 - Ngoni: If we trained AI to write like humans, should it be "99% Human"🤔
+10/05/2024, 21:25 - Rufaro: No it shouldn't because AI makes minimal mistakes too few to be a human especially with how humans also make punctuation errors and have different word patterns they use that are not ideal
+10/05/2024, 21:43 - Ngoni: It was trained on human data
+10/05/2024, 21:44 - Rufaro: Hand picked human data as far as I am concerned takes the best from a number of us.
+10/05/2024, 21:46 - Rufaro: It ends up reviewed and looked at to get the best of written language grammar and dialect that by itself would make the model far too good to be human
+10/05/2024, 21:50 - Ngoni: Not really, it still can't write like the best of us because it lacks creativity
+10/05/2024, 23:35 - Rufaro: Well yeah it does lack creativity however this may now be an issue of inspiration and idiolism
+11/05/2024, 21:35 - Rufaro: Yo wassup
+11/05/2024, 21:35 - Rufaro: Ano is saying he is gonna wait for dad on Monday in harare
+11/05/2024, 21:35 - Ngoni: Oh okay
+11/05/2024, 21:36 - Ngoni: That's cool too
+11/05/2024, 21:36 - Rufaro: I am showing him the place around here and all
+11/05/2024, 21:39 - Ngoni: You shown him the town and all?
+11/05/2024, 21:52 - Rufaro: Yeah took him to the shops
+13/05/2024, 15:45 - Ngoni: Yo
+13/05/2024, 15:45 - Ngoni: First episode of kimetsu no yaiba is out
+13/05/2024, 15:46 - Rufaro: Yeah I saw people on YouTube talking about it I just got distracted and never noticed

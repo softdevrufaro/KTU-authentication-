@@ -7,8 +7,8 @@ import numpy as np
 import re 
 from nltk.tokenize import word_tokenize
 #create the model and vectorizer objects to be used for the code
-model = joblib.load("C:\\Users\\rnzenze\\Desktop\\Rufaro's stuff\\AI python\\Machine Learning\\Full project\\Full project\\KTU application\\saved_models\\KTU_model.joblib")
-vectorizer = joblib.load("C:\\Users\\rnzenze\\Desktop\\Rufaro's stuff\\AI python\\Machine Learning\\Full project\\Full project\\KTU application\\saved_models\\KTU_vectorizer.joblib")
+model = joblib.load('KTU complete setup\saved_models\KTU_model.joblib')
+vectorizer = joblib.load('KTU complete setup\saved_models\KTU_vectorizer.joblib')
 
 #to remove whitespaces , emojies and other non text and numerical characters
 def clean_text(text):
